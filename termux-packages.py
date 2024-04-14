@@ -25,9 +25,8 @@ banner="""  ____             _           _ _         _
 print(banner)
 
 print('\033[1;31m [+]Follow Me :')
-print('\033[1;34m [1]YOUTUBE  : sadamalsharabi80 ' )
-print('\033[1;34m [2]Tiktok   : sadamalsharabi ')
-print('\033[1;34m [3]Telegram : @termuxalsharabi ')
+print('\033[1;34m [1] Name Mr Dark elkabos  : ' )
+print('\033[1;34m [2]Telegram   : @Mr_Dark_elkabos ')
 print('\033[1;31m [+]TOOLS: ')
 def main():
     print('')
