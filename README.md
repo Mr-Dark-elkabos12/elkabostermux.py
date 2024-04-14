@@ -13,7 +13,7 @@
 
 <code>pkg install bash </code>
 
-<code>git clone https://github.com/sadamshr3be/termux-packages</code>
+<code>git clone [https://github.com/Mr-Dark-elkabos12/elkabostermux.py.git)</code>
 
 <code>cd termux-packages</code>
 
